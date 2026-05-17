@@ -34,7 +34,13 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     if (!res.ok) throw new Error(data.message || "Đăng ký thất bại");
   };
 
-  const logout = () => { localStorage.removeItem("token"); localStorage.removeItem("user"); setToken(null); setUser(null); window.location.href = "/"; };
+  const logout = () => {
+    localStorage.removeItem("token");
+    localStorage.removeItem("user");
+    setToken(null);
+    setUser(null);
+    window.location.href = "/";
+  };
 
   const value = useMemo(() => ({ user, token, loading, login, register, logout, isAdmin: !!user?.isAdmin }), [user, token, loading]);
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;
