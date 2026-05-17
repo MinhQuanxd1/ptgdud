@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "6a095ccbdf5d6bf6de075485"
+  },
+  "name": "Áo Nam basic",
+  "image": "http://localhost:5000/uploads/ao1.jpg",
+  "price": 20000,
+  "description": "áo nam basic hợp thời trang hợp với người basic",
+  "category": "shirt",
+  "createdAt": {
+    "$date": "2026-05-17T06:14:35.337Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-17T06:14:35.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a095e04df5d6bf6de075486"
+  },
+  "name": "Quần Jean",
+  "image": "http://localhost:5000/uploads/quan.jpg",
+  "price": 300000,
+  "description": "quần jean nam phong cách tối giản hợp thời trang",
+  "category": "pants",
+  "createdAt": {
+    "$date": "2026-05-17T06:19:48.642Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-17T06:19:48.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a095e30df5d6bf6de075487"
+  },
+  "name": "Giày thể thao ",
+  "image": "http://localhost:5000/uploads/giay.jpg",
+  "price": 400000,
+  "description": "Giày thể thao năng động phù hợp với thời tiết nắng nóng",
+  "category": "shoes",
+  "createdAt": {
+    "$date": "2026-05-17T06:20:32.017Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-17T06:20:32.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a095e8edf5d6bf6de075488"
+  },
+  "name": "áo Hoodie",
+  "image": "http://localhost:5000/uploads/hoodie.jpg",
+  "price": 200000,
+  "description": "áo hoodie ấm cúng hợp với thời tiết lanh",
+  "category": "hoodie",
+  "createdAt": {
+    "$date": "2026-05-17T06:22:06.165Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-17T06:22:06.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a096005df5d6bf6de075489"
+  },
+  "name": "áo sơ mi",
+  "image": "http://localhost:5000/uploads/aosomi.jpg",
+  "price": 500000,
+  "description": "áo sơ mi lịch sự phù hợp với người đi làm",
+  "category": "shirt",
+  "createdAt": {
+    "$date": "2026-05-17T06:28:21.415Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-17T06:28:21.415Z"
+  },
+  "__v": 0
+}]

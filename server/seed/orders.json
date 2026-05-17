@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6a09781953ecbfaf6fe08e96"
+  },
+  "customerName": "Nguyễn Minh Quân",
+  "phone": "0379026510",
+  "address": "djwudiasud",
+  "items": [
+    {
+      "_id": "6a096005df5d6bf6de075489",
+      "name": "áo sơ mi",
+      "image": "http://localhost:5000/uploads/aosomi.jpg",
+      "price": 500000,
+      "description": "áo sơ mi lịch sự phù hợp với người đi làm",
+      "category": "shirt",
+      "createdAt": "2026-05-17T06:28:21.415Z",
+      "updatedAt": "2026-05-17T06:28:21.415Z",
+      "__v": 0,
+      "qty": 1
+    },
+    {
+      "_id": "6a095e8edf5d6bf6de075488",
+      "name": "áo Hoodie",
+      "image": "http://localhost:5000/uploads/hoodie.jpg",
+      "price": 200000,
+      "description": "áo hoodie ấm cúng hợp với thời tiết lanh",
+      "category": "hoodie",
+      "createdAt": "2026-05-17T06:22:06.165Z",
+      "updatedAt": "2026-05-17T06:22:06.165Z",
+      "__v": 0,
+      "qty": 1
+    }
+  ],
+  "totalPrice": 700000,
+  "status": "Completed",
+  "createdAt": {
+    "$date": "2026-05-17T08:11:05.074Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-17T08:11:40.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0982b944cbbc8fb56bfe73"
+  },
+  "customerName": "",
+  "phone": "",
+  "address": "",
+  "items": [
+    {
+      "_id": "6a096005df5d6bf6de075489",
+      "name": "áo sơ mi",
+      "image": "http://localhost:5000/uploads/aosomi.jpg",
+      "price": 500000,
+      "description": "áo sơ mi lịch sự phù hợp với người đi làm",
+      "category": "shirt",
+      "createdAt": "2026-05-17T06:28:21.415Z",
+      "updatedAt": "2026-05-17T06:28:21.415Z",
+      "__v": 0,
+      "qty": 2
+    }
+  ],
+  "totalPrice": 1000000,
+  "status": "Shipping",
+  "createdAt": {
+    "$date": "2026-05-17T08:56:25.508Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-17T09:10:42.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a09857ca36c6d8aef9c1590"
+  },
+  "user": {
+    "$oid": "6a093e71a839aa499e0de44a"
+  },
+  "customerName": "qưeewe1312",
+  "phone": "214444444444",
+  "address": "ewq",
+  "items": [
+    {
+      "_id": "6a096005df5d6bf6de075489",
+      "name": "áo sơ mi",
+      "image": "http://localhost:5000/uploads/aosomi.jpg",
+      "price": 500000,
+      "description": "áo sơ mi lịch sự phù hợp với người đi làm",
+      "category": "shirt",
+      "createdAt": "2026-05-17T06:28:21.415Z",
+      "updatedAt": "2026-05-17T06:28:21.415Z",
+      "__v": 0,
+      "qty": 2
+    },
+    {
+      "_id": "6a095e8edf5d6bf6de075488",
+      "name": "áo Hoodie",
+      "image": "http://localhost:5000/uploads/hoodie.jpg",
+      "price": 200000,
+      "description": "áo hoodie ấm cúng hợp với thời tiết lanh",
+      "category": "hoodie",
+      "createdAt": "2026-05-17T06:22:06.165Z",
+      "updatedAt": "2026-05-17T06:22:06.165Z",
+      "__v": 0,
+      "qty": 2
+    }
+  ],
+  "totalPrice": 1400000,
+  "status": "Processing",
+  "createdAt": {
+    "$date": "2026-05-17T09:08:12.067Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-17T09:10:41.160Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "69dc7a1996d0ed80e07c4cb8"
+  },
+  "name": "Quan",
+  "email": "quan@gmail.com",
+  "password": "$2b$10$XtghZm/nPl/NXgYWvp0SLuQ4Dr34ODVBKq5WjwG9p/znwp12C6.xy",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2026-04-13T05:07:37.202Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-13T05:07:37.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dc8c1ae699934bb95543d5"
+  },
+  "name": "Quan1",
+  "email": "sukenta113@gmail.com",
+  "password": "$2b$10$7A6i9aMSeFYUYT4sEAxU8.p1juvCSkIz7WSWmf5fDeC9iSgX.lua6",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2026-04-13T06:24:26.378Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-13T06:24:26.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dc8c9ae699934bb95543d6"
+  },
+  "name": "Nguyễn Minh Quân",
+  "email": "sukenta112@gmail.com",
+  "password": "$2b$10$H1oLHlpIFvryV2scHb6r4.ccVV6UUpR/sRP5ZkhTfMOgyREh0Hxvm",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2026-04-13T06:26:34.063Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-13T06:26:34.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a093e71a839aa499e0de44a"
+  },
+  "name": "quan123",
+  "email": "sukenta111@gmail.com",
+  "password": "$2b$10$ghv8VvEY03A54Izq8f.XLOkd.N9s4I/R1GetfjfoGkV7iYZh628H2",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2026-05-17T04:05:05.093Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-17T04:05:05.093Z"
+  },
+  "__v": 0
+}]
